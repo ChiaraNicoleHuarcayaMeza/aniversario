@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.content1 img{
+  height: 100px;
+}
+.content1{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+   font-size: 60px;
+  margin: 30px
+}
+.pastel{
+display: flex;
+  justify-content: center;
+  align-items:center;
+}
+.pastel img{
+  height: 400px
+}
+body{
+  background-color: #f7d186;
+
+}
